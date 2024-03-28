@@ -48,3 +48,5 @@ generated_sentance = sampling(model,
 | ind2word     | dict            | dictionary mapping {token_number: "word"}        | None      |
 | topk     | Union[int, float]            | `int` for `Top@K` and `Beam Search` (number of samples), float for `Top@P` (total probability)        | None      |
 | max_seq_len     | int            | max output sequence len         | 32     |
+
+исправлено в VSCode
