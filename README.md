@@ -50,3 +50,4 @@ generated_sentance = sampling(model,
 | max_seq_len     | int            | max output sequence len         | 32     |
 
 исправлено в VSCode
+
